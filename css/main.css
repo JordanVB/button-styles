@@ -11,3 +11,61 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn-style {
+  display: inline-block;
+  border-radius: 8px;
+  border-width: 3px;
+  padding: .4em .75em .3em;
+  text-decoration: none;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+  color: #fff;
+}
+
+.btn-ghost {
+  background-color: #fff;
+  border-color: #000;
+  color: #000;
+}
+
+.btn-warning {
+  background-color: #f33;
+  color: #fff;
+}
+
+.btn-norm {
+  font-size: 1.125rem;
+}
+
+.btn-small {
+  font-size: .875rem;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+}
+
+.btn:hover {
+  background-color: #000;
+}
