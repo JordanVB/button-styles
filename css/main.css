@@ -16,7 +16,8 @@ div {
   display: inline-block;
   border-radius: 8px;
   border-width: 3px;
-  padding: .4em .75em .3em;
+  padding: .5em .75em .55em;
+  margin: 0;
   text-decoration: none;
 }
 
